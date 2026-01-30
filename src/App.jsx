@@ -103,11 +103,11 @@ function App() {
   ];
 
   const gallery = [
+    'https://oejgkvftpbinliuopipr.supabase.co/storage/v1/object/public/assets/user_546123314/edit-photo-1769798620.jpg?',
+    'https://oejgkvftpbinliuopipr.supabase.co/storage/v1/object/public/assets/user_546123314/edit-photo-1769798704.jpg?',
     'https://oejgkvftpbinliuopipr.supabase.co/storage/v1/object/public/assets/user_546123314/user-photo-1.jpg?',
-    'https://oejgkvftpbinliuopipr.supabase.co/storage/v1/object/public/assets/user_546123314/user-photo-1.jpg?',
-    'https://oejgkvftpbinliuopipr.supabase.co/storage/v1/object/public/assets/user_546123314/user-photo-1.jpg?',
-    'https://oejgkvftpbinliuopipr.supabase.co/storage/v1/object/public/assets/user_546123314/user-photo-1.jpg?',
-    'https://oejgkvftpbinliuopipr.supabase.co/storage/v1/object/public/assets/user_546123314/user-photo-1.jpg?',
+    'https://oejgkvftpbinliuopipr.supabase.co/storage/v1/object/public/assets/user_546123314/edit-photo-1769798620.jpg?',
+    'https://oejgkvftpbinliuopipr.supabase.co/storage/v1/object/public/assets/user_546123314/edit-photo-1769798704.jpg?',
     'https://oejgkvftpbinliuopipr.supabase.co/storage/v1/object/public/assets/user_546123314/user-photo-1.jpg?'
   ];
 
